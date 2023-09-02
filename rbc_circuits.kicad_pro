@@ -663,6 +663,10 @@
     [
       "8a955068-bee1-41d8-bd91-93323aaa04a0",
       "Motor Shields"
+    ],
+    [
+      "89b185b8-71a2-451f-8308-7ae776af2b3f",
+      "MCU"
     ]
   ],
   "text_variables": {}

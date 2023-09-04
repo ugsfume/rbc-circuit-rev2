@@ -4,6 +4,12 @@
 
   (paper "A4")
 
+  (title_block
+    (title "RBC by UGS")
+    (date "2023-09-04")
+    (rev "2.0")
+  )
+
   (lib_symbols
   )
 

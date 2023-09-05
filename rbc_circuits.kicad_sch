@@ -14,23 +14,6 @@
   )
 
 
-  (sheet (at 116.84 87.63) (size 25.4 25.4) (fields_autoplaced)
-    (stroke (width 0.1524) (type solid))
-    (fill (color 0 0 0 0.0000))
-    (uuid 11663713-acec-45f1-8603-bba89fd94900)
-    (property "Sheetname" "Motor Controller" (at 116.84 86.9184 0)
-      (effects (font (size 1.27 1.27)) (justify left bottom))
-    )
-    (property "Sheetfile" "motor_controller.kicad_sch" (at 116.84 113.6146 0)
-      (effects (font (size 1.27 1.27)) (justify left top))
-    )
-    (instances
-      (project "rbc_circuits"
-        (path "/1df96114-eb1a-4ddf-9ea3-acd2b4d12bf3" (page "3"))
-      )
-    )
-  )
-
   (sheet (at 154.94 87.63) (size 25.4 25.4) (fields_autoplaced)
     (stroke (width 0.1524) (type solid))
     (fill (color 0 0 0 0.0000))
@@ -65,14 +48,14 @@
     )
   )
 
-  (sheet (at 78.74 124.46) (size 24.13 25.4) (fields_autoplaced)
+  (sheet (at 116.84 87.63) (size 24.13 25.4) (fields_autoplaced)
     (stroke (width 0.1524) (type solid))
     (fill (color 0 0 0 0.0000))
     (uuid 89b185b8-71a2-451f-8308-7ae776af2b3f)
-    (property "Sheetname" "MCU" (at 78.74 123.7484 0)
+    (property "Sheetname" "MCU" (at 116.84 86.9184 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
-    (property "Sheetfile" "MCU.kicad_sch" (at 78.74 150.4446 0)
+    (property "Sheetfile" "MCU.kicad_sch" (at 116.84 113.6146 0)
       (effects (font (size 1.27 1.27)) (justify left top))
     )
     (instances

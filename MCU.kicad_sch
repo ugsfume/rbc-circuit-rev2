@@ -1955,9 +1955,6 @@
     (pin "2" (uuid d2d2dd7c-d68f-431b-9c01-4e6fa5b4766d))
     (instances
       (project "rbc_circuits"
-        (path "/1df96114-eb1a-4ddf-9ea3-acd2b4d12bf3/11663713-acec-45f1-8603-bba89fd94900"
-          (reference "R6") (unit 1)
-        )
         (path "/1df96114-eb1a-4ddf-9ea3-acd2b4d12bf3/89b185b8-71a2-451f-8308-7ae776af2b3f"
           (reference "R32") (unit 1)
         )
@@ -2149,9 +2146,6 @@
         (path "/1df96114-eb1a-4ddf-9ea3-acd2b4d12bf3/6683f276-27a3-494e-84c3-353277da8be6"
           (reference "J?") (unit 1)
         )
-        (path "/1df96114-eb1a-4ddf-9ea3-acd2b4d12bf3/11663713-acec-45f1-8603-bba89fd94900"
-          (reference "J3") (unit 1)
-        )
         (path "/1df96114-eb1a-4ddf-9ea3-acd2b4d12bf3/89b185b8-71a2-451f-8308-7ae776af2b3f"
           (reference "J7") (unit 1)
         )
@@ -2219,9 +2213,6 @@
     (pin "1" (uuid eaeaf913-d409-4e9f-912f-ac5275e802cd))
     (instances
       (project "rbc_circuits"
-        (path "/1df96114-eb1a-4ddf-9ea3-acd2b4d12bf3/11663713-acec-45f1-8603-bba89fd94900"
-          (reference "#PWR013") (unit 1)
-        )
         (path "/1df96114-eb1a-4ddf-9ea3-acd2b4d12bf3/89b185b8-71a2-451f-8308-7ae776af2b3f"
           (reference "#PWR058") (unit 1)
         )
@@ -2274,9 +2265,6 @@
     (pin "2" (uuid a52d46de-bb3e-487d-86b2-be2025cd8667))
     (instances
       (project "rbc_circuits"
-        (path "/1df96114-eb1a-4ddf-9ea3-acd2b4d12bf3/11663713-acec-45f1-8603-bba89fd94900"
-          (reference "R5") (unit 1)
-        )
         (path "/1df96114-eb1a-4ddf-9ea3-acd2b4d12bf3/89b185b8-71a2-451f-8308-7ae776af2b3f"
           (reference "R31") (unit 1)
         )

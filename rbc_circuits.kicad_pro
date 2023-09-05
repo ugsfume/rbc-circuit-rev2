@@ -653,16 +653,16 @@
       "Power Module"
     ],
     [
+      "89b185b8-71a2-451f-8308-7ae776af2b3f",
+      "MCU"
+    ],
+    [
       "340fc0b4-a09d-4c93-8b36-cbba890fb795",
       "Utility"
     ],
     [
       "8a955068-bee1-41d8-bd91-93323aaa04a0",
       "Motor Shields"
-    ],
-    [
-      "89b185b8-71a2-451f-8308-7ae776af2b3f",
-      "MCU"
     ]
   ],
   "text_variables": {}

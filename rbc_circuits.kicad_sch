@@ -6,7 +6,7 @@
 
   (title_block
     (title "RBC by UGS")
-    (date "2023-09-04")
+    (date "2023-09-06")
     (rev "2.0")
   )
 
@@ -60,7 +60,7 @@
     )
     (instances
       (project "rbc_circuits"
-        (path "/1df96114-eb1a-4ddf-9ea3-acd2b4d12bf3" (page "6"))
+        (path "/1df96114-eb1a-4ddf-9ea3-acd2b4d12bf3" (page "3"))
       )
     )
   )

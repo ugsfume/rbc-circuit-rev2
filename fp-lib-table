@@ -1,3 +1,4 @@
 (fp_lib_table
   (version 7)
+  (lib (name "rbc Custom Library")(type "KiCad")(uri "${KIPRJMOD}/rbc Custom Library.pretty")(options "")(descr ""))
 )

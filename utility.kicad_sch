@@ -1411,7 +1411,7 @@
           (reference "R?") (unit 1)
         )
         (path "/1df96114-eb1a-4ddf-9ea3-acd2b4d12bf3/340fc0b4-a09d-4c93-8b36-cbba890fb795"
-          (reference "R24") (unit 1)
+          (reference "R21") (unit 1)
         )
       )
     )
@@ -1440,7 +1440,7 @@
           (reference "R?") (unit 1)
         )
         (path "/1df96114-eb1a-4ddf-9ea3-acd2b4d12bf3/340fc0b4-a09d-4c93-8b36-cbba890fb795"
-          (reference "R26") (unit 1)
+          (reference "R23") (unit 1)
         )
       )
     )
@@ -1468,7 +1468,7 @@
           (reference "#PWR?") (unit 1)
         )
         (path "/1df96114-eb1a-4ddf-9ea3-acd2b4d12bf3/340fc0b4-a09d-4c93-8b36-cbba890fb795"
-          (reference "#PWR037") (unit 1)
+          (reference "#PWR035") (unit 1)
         )
       )
     )
@@ -1499,7 +1499,7 @@
           (reference "#PWR?") (unit 1)
         )
         (path "/1df96114-eb1a-4ddf-9ea3-acd2b4d12bf3/340fc0b4-a09d-4c93-8b36-cbba890fb795"
-          (reference "#PWR046") (unit 1)
+          (reference "#PWR045") (unit 1)
         )
       )
     )
@@ -1528,7 +1528,7 @@
           (reference "C?") (unit 1)
         )
         (path "/1df96114-eb1a-4ddf-9ea3-acd2b4d12bf3/340fc0b4-a09d-4c93-8b36-cbba890fb795"
-          (reference "C33") (unit 1)
+          (reference "C27") (unit 1)
         )
       )
     )
@@ -1556,7 +1556,7 @@
           (reference "#PWR?") (unit 1)
         )
         (path "/1df96114-eb1a-4ddf-9ea3-acd2b4d12bf3/340fc0b4-a09d-4c93-8b36-cbba890fb795"
-          (reference "#PWR040") (unit 1)
+          (reference "#PWR039") (unit 1)
         )
       )
     )
@@ -1565,7 +1565,7 @@
   (symbol (lib_id "Device:R_Small") (at 115.57 55.88 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 180f48b3-346f-483e-8c30-a7c15406dec8)
-    (property "Reference" "R21" (at 118.11 54.61 0)
+    (property "Reference" "R19" (at 118.11 54.61 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "10k" (at 118.11 57.15 0)
@@ -1582,7 +1582,7 @@
     (instances
       (project "rbc_circuits"
         (path "/1df96114-eb1a-4ddf-9ea3-acd2b4d12bf3/340fc0b4-a09d-4c93-8b36-cbba890fb795"
-          (reference "R21") (unit 1)
+          (reference "R19") (unit 1)
         )
       )
     )
@@ -1613,7 +1613,7 @@
           (reference "#PWR?") (unit 1)
         )
         (path "/1df96114-eb1a-4ddf-9ea3-acd2b4d12bf3/340fc0b4-a09d-4c93-8b36-cbba890fb795"
-          (reference "#PWR056") (unit 1)
+          (reference "#PWR053") (unit 1)
         )
       )
     )
@@ -1644,7 +1644,7 @@
           (reference "#PWR?") (unit 1)
         )
         (path "/1df96114-eb1a-4ddf-9ea3-acd2b4d12bf3/340fc0b4-a09d-4c93-8b36-cbba890fb795"
-          (reference "#PWR050") (unit 1)
+          (reference "#PWR049") (unit 1)
         )
       )
     )
@@ -1701,7 +1701,7 @@
           (reference "C?") (unit 1)
         )
         (path "/1df96114-eb1a-4ddf-9ea3-acd2b4d12bf3/340fc0b4-a09d-4c93-8b36-cbba890fb795"
-          (reference "C32") (unit 1)
+          (reference "C26") (unit 1)
         )
       )
     )
@@ -1730,7 +1730,7 @@
           (reference "C?") (unit 1)
         )
         (path "/1df96114-eb1a-4ddf-9ea3-acd2b4d12bf3/340fc0b4-a09d-4c93-8b36-cbba890fb795"
-          (reference "C30") (unit 1)
+          (reference "C24") (unit 1)
         )
       )
     )
@@ -1759,7 +1759,7 @@
           (reference "R?") (unit 1)
         )
         (path "/1df96114-eb1a-4ddf-9ea3-acd2b4d12bf3/340fc0b4-a09d-4c93-8b36-cbba890fb795"
-          (reference "R25") (unit 1)
+          (reference "R22") (unit 1)
         )
       )
     )
@@ -1816,7 +1816,7 @@
           (reference "#PWR?") (unit 1)
         )
         (path "/1df96114-eb1a-4ddf-9ea3-acd2b4d12bf3/340fc0b4-a09d-4c93-8b36-cbba890fb795"
-          (reference "#PWR048") (unit 1)
+          (reference "#PWR047") (unit 1)
         )
       )
     )
@@ -1825,7 +1825,7 @@
   (symbol (lib_id "Jumper:SolderJumper_2_Open") (at 137.16 142.24 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 55a963ab-b3c5-46ed-ad0b-8206caa98bf1)
-    (property "Reference" "JP5" (at 130.81 142.24 90)
+    (property "Reference" "JP3" (at 130.81 142.24 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "ON" (at 132.08 144.78 90)
@@ -1842,7 +1842,7 @@
     (instances
       (project "rbc_circuits"
         (path "/1df96114-eb1a-4ddf-9ea3-acd2b4d12bf3/340fc0b4-a09d-4c93-8b36-cbba890fb795"
-          (reference "JP5") (unit 1)
+          (reference "JP3") (unit 1)
         )
       )
     )
@@ -1892,7 +1892,7 @@
           (reference "IC?") (unit 1)
         )
         (path "/1df96114-eb1a-4ddf-9ea3-acd2b4d12bf3/340fc0b4-a09d-4c93-8b36-cbba890fb795"
-          (reference "IC6") (unit 1)
+          (reference "IC5") (unit 1)
         )
       )
     )
@@ -1921,7 +1921,7 @@
           (reference "D?") (unit 1)
         )
         (path "/1df96114-eb1a-4ddf-9ea3-acd2b4d12bf3/340fc0b4-a09d-4c93-8b36-cbba890fb795"
-          (reference "D10") (unit 1)
+          (reference "D5") (unit 1)
         )
       )
     )
@@ -1949,7 +1949,7 @@
           (reference "#PWR?") (unit 1)
         )
         (path "/1df96114-eb1a-4ddf-9ea3-acd2b4d12bf3/340fc0b4-a09d-4c93-8b36-cbba890fb795"
-          (reference "#PWR051") (unit 1)
+          (reference "#PWR042") (unit 1)
         )
       )
     )
@@ -1986,7 +1986,7 @@
   (symbol (lib_id "power:+12LF") (at 186.69 113.03 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 68366986-059c-414a-a115-22669f4cd007)
-    (property "Reference" "#PWR057" (at 186.69 116.84 0)
+    (property "Reference" "#PWR044" (at 186.69 116.84 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+12LF" (at 186.69 107.95 0)
@@ -2002,7 +2002,7 @@
     (instances
       (project "rbc_circuits"
         (path "/1df96114-eb1a-4ddf-9ea3-acd2b4d12bf3/340fc0b4-a09d-4c93-8b36-cbba890fb795"
-          (reference "#PWR057") (unit 1)
+          (reference "#PWR044") (unit 1)
         )
       )
     )
@@ -2033,7 +2033,7 @@
           (reference "#PWR?") (unit 1)
         )
         (path "/1df96114-eb1a-4ddf-9ea3-acd2b4d12bf3/340fc0b4-a09d-4c93-8b36-cbba890fb795"
-          (reference "#PWR054") (unit 1)
+          (reference "#PWR051") (unit 1)
         )
       )
     )
@@ -2064,7 +2064,7 @@
           (reference "#PWR?") (unit 1)
         )
         (path "/1df96114-eb1a-4ddf-9ea3-acd2b4d12bf3/340fc0b4-a09d-4c93-8b36-cbba890fb795"
-          (reference "#PWR036") (unit 1)
+          (reference "#PWR055") (unit 1)
         )
       )
     )
@@ -2092,7 +2092,7 @@
           (reference "#PWR?") (unit 1)
         )
         (path "/1df96114-eb1a-4ddf-9ea3-acd2b4d12bf3/340fc0b4-a09d-4c93-8b36-cbba890fb795"
-          (reference "#PWR053") (unit 1)
+          (reference "#PWR050") (unit 1)
         )
       )
     )
@@ -2101,7 +2101,7 @@
   (symbol (lib_id "power:+12LF") (at 260.35 67.31 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 89cedb57-8b7f-4320-91f0-dce2f4d532cc)
-    (property "Reference" "#PWR055" (at 260.35 71.12 0)
+    (property "Reference" "#PWR052" (at 260.35 71.12 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+12LF" (at 260.35 62.23 0)
@@ -2117,7 +2117,7 @@
     (instances
       (project "rbc_circuits"
         (path "/1df96114-eb1a-4ddf-9ea3-acd2b4d12bf3/340fc0b4-a09d-4c93-8b36-cbba890fb795"
-          (reference "#PWR055") (unit 1)
+          (reference "#PWR052") (unit 1)
         )
       )
     )
@@ -2174,7 +2174,7 @@
           (reference "#PWR?") (unit 1)
         )
         (path "/1df96114-eb1a-4ddf-9ea3-acd2b4d12bf3/340fc0b4-a09d-4c93-8b36-cbba890fb795"
-          (reference "#PWR038") (unit 1)
+          (reference "#PWR036") (unit 1)
         )
       )
     )
@@ -2202,7 +2202,7 @@
           (reference "#PWR?") (unit 1)
         )
         (path "/1df96114-eb1a-4ddf-9ea3-acd2b4d12bf3/340fc0b4-a09d-4c93-8b36-cbba890fb795"
-          (reference "#PWR052") (unit 1)
+          (reference "#PWR043") (unit 1)
         )
       )
     )
@@ -2231,7 +2231,7 @@
           (reference "L?") (unit 1)
         )
         (path "/1df96114-eb1a-4ddf-9ea3-acd2b4d12bf3/340fc0b4-a09d-4c93-8b36-cbba890fb795"
-          (reference "L7") (unit 1)
+          (reference "L6") (unit 1)
         )
       )
     )
@@ -2240,7 +2240,7 @@
   (symbol (lib_id "power:+12LF") (at 261.62 96.52 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid a1852503-0c79-4d59-864e-a5dc524803ba)
-    (property "Reference" "#PWR035" (at 261.62 100.33 0)
+    (property "Reference" "#PWR054" (at 261.62 100.33 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+12LF" (at 261.62 91.44 0)
@@ -2256,7 +2256,7 @@
     (instances
       (project "rbc_circuits"
         (path "/1df96114-eb1a-4ddf-9ea3-acd2b4d12bf3/340fc0b4-a09d-4c93-8b36-cbba890fb795"
-          (reference "#PWR035") (unit 1)
+          (reference "#PWR054") (unit 1)
         )
       )
     )
@@ -2310,7 +2310,7 @@
           (reference "#PWR?") (unit 1)
         )
         (path "/1df96114-eb1a-4ddf-9ea3-acd2b4d12bf3/340fc0b4-a09d-4c93-8b36-cbba890fb795"
-          (reference "#PWR044") (unit 1)
+          (reference "#PWR038") (unit 1)
         )
       )
     )
@@ -2339,7 +2339,7 @@
           (reference "R?") (unit 1)
         )
         (path "/1df96114-eb1a-4ddf-9ea3-acd2b4d12bf3/340fc0b4-a09d-4c93-8b36-cbba890fb795"
-          (reference "R27") (unit 1)
+          (reference "R24") (unit 1)
         )
       )
     )
@@ -2397,7 +2397,7 @@
           (reference "D?") (unit 1)
         )
         (path "/1df96114-eb1a-4ddf-9ea3-acd2b4d12bf3/340fc0b4-a09d-4c93-8b36-cbba890fb795"
-          (reference "D7") (unit 1)
+          (reference "D8") (unit 1)
         )
       )
     )
@@ -2426,7 +2426,7 @@
           (reference "D?") (unit 1)
         )
         (path "/1df96114-eb1a-4ddf-9ea3-acd2b4d12bf3/340fc0b4-a09d-4c93-8b36-cbba890fb795"
-          (reference "D5") (unit 1)
+          (reference "D6") (unit 1)
         )
       )
     )
@@ -2455,7 +2455,7 @@
           (reference "R?") (unit 1)
         )
         (path "/1df96114-eb1a-4ddf-9ea3-acd2b4d12bf3/340fc0b4-a09d-4c93-8b36-cbba890fb795"
-          (reference "R29") (unit 1)
+          (reference "R20") (unit 1)
         )
       )
     )
@@ -2484,7 +2484,7 @@
           (reference "R?") (unit 1)
         )
         (path "/1df96114-eb1a-4ddf-9ea3-acd2b4d12bf3/340fc0b4-a09d-4c93-8b36-cbba890fb795"
-          (reference "R28") (unit 1)
+          (reference "R25") (unit 1)
         )
       )
     )
@@ -2515,7 +2515,7 @@
           (reference "#PWR?") (unit 1)
         )
         (path "/1df96114-eb1a-4ddf-9ea3-acd2b4d12bf3/340fc0b4-a09d-4c93-8b36-cbba890fb795"
-          (reference "#PWR049") (unit 1)
+          (reference "#PWR048") (unit 1)
         )
       )
     )
@@ -2544,7 +2544,7 @@
           (reference "D?") (unit 1)
         )
         (path "/1df96114-eb1a-4ddf-9ea3-acd2b4d12bf3/340fc0b4-a09d-4c93-8b36-cbba890fb795"
-          (reference "D6") (unit 1)
+          (reference "D7") (unit 1)
         )
       )
     )
@@ -2572,7 +2572,7 @@
           (reference "#PWR?") (unit 1)
         )
         (path "/1df96114-eb1a-4ddf-9ea3-acd2b4d12bf3/340fc0b4-a09d-4c93-8b36-cbba890fb795"
-          (reference "#PWR043") (unit 1)
+          (reference "#PWR037") (unit 1)
         )
       )
     )
@@ -2600,7 +2600,7 @@
           (reference "#PWR?") (unit 1)
         )
         (path "/1df96114-eb1a-4ddf-9ea3-acd2b4d12bf3/340fc0b4-a09d-4c93-8b36-cbba890fb795"
-          (reference "#PWR045") (unit 1)
+          (reference "#PWR041") (unit 1)
         )
       )
     )
@@ -2631,7 +2631,7 @@
           (reference "#PWR?") (unit 1)
         )
         (path "/1df96114-eb1a-4ddf-9ea3-acd2b4d12bf3/340fc0b4-a09d-4c93-8b36-cbba890fb795"
-          (reference "#PWR047") (unit 1)
+          (reference "#PWR046") (unit 1)
         )
       )
     )
@@ -2640,7 +2640,7 @@
   (symbol (lib_id "power:PWR_FLAG") (at 186.69 119.38 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid ddfe8beb-54da-4294-adbf-6e51306f6f0f)
-    (property "Reference" "#FLG01" (at 186.69 121.285 0)
+    (property "Reference" "#FLG?" (at 186.69 121.285 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "PWR_FLAG" (at 179.07 123.19 0)
@@ -2656,10 +2656,10 @@
     (instances
       (project "rbc_circuits"
         (path "/1df96114-eb1a-4ddf-9ea3-acd2b4d12bf3/6683f276-27a3-494e-84c3-353277da8be6"
-          (reference "#FLG01") (unit 1)
+          (reference "#FLG?") (unit 1)
         )
         (path "/1df96114-eb1a-4ddf-9ea3-acd2b4d12bf3/340fc0b4-a09d-4c93-8b36-cbba890fb795"
-          (reference "#FLG05") (unit 1)
+          (reference "#FLG08") (unit 1)
         )
       )
     )
@@ -2688,7 +2688,7 @@
           (reference "D?") (unit 1)
         )
         (path "/1df96114-eb1a-4ddf-9ea3-acd2b4d12bf3/340fc0b4-a09d-4c93-8b36-cbba890fb795"
-          (reference "D9") (unit 1)
+          (reference "D10") (unit 1)
         )
       )
     )
@@ -2697,7 +2697,7 @@
   (symbol (lib_id "Connector:Conn_01x04_Pin") (at 247.65 100.33 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid ec6ef7ff-f8a4-444a-9ea4-5f2b809f51f4)
-    (property "Reference" "J12" (at 248.285 92.71 0)
+    (property "Reference" "J9" (at 248.285 92.71 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "Extra 12V" (at 248.285 95.25 0)
@@ -2716,7 +2716,7 @@
     (instances
       (project "rbc_circuits"
         (path "/1df96114-eb1a-4ddf-9ea3-acd2b4d12bf3/340fc0b4-a09d-4c93-8b36-cbba890fb795"
-          (reference "J12") (unit 1)
+          (reference "J9") (unit 1)
         )
       )
     )
@@ -2747,7 +2747,7 @@
           (reference "#PWR?") (unit 1)
         )
         (path "/1df96114-eb1a-4ddf-9ea3-acd2b4d12bf3/340fc0b4-a09d-4c93-8b36-cbba890fb795"
-          (reference "#PWR041") (unit 1)
+          (reference "#PWR040") (unit 1)
         )
       )
     )
@@ -2776,7 +2776,7 @@
           (reference "R?") (unit 1)
         )
         (path "/1df96114-eb1a-4ddf-9ea3-acd2b4d12bf3/340fc0b4-a09d-4c93-8b36-cbba890fb795"
-          (reference "R23") (unit 1)
+          (reference "R18") (unit 1)
         )
       )
     )
@@ -2805,7 +2805,7 @@
           (reference "C?") (unit 1)
         )
         (path "/1df96114-eb1a-4ddf-9ea3-acd2b4d12bf3/340fc0b4-a09d-4c93-8b36-cbba890fb795"
-          (reference "C31") (unit 1)
+          (reference "C25") (unit 1)
         )
       )
     )
@@ -2834,7 +2834,7 @@
           (reference "D?") (unit 1)
         )
         (path "/1df96114-eb1a-4ddf-9ea3-acd2b4d12bf3/340fc0b4-a09d-4c93-8b36-cbba890fb795"
-          (reference "D8") (unit 1)
+          (reference "D9") (unit 1)
         )
       )
     )

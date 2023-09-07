@@ -3006,8 +3006,8 @@
     (property "Part No." "SRP4020TA-2R2M" (at 90.17 36.83 90)
       (effects (font (size 1.27 1.27)))
     )
-    (pin "1" (uuid 106439b9-b719-44c4-ac8a-7f6e78c5b13b))
-    (pin "2" (uuid ddd3abea-9abf-42d5-ae3f-bc322faee533))
+    (pin "1" (uuid 12028a0f-f0f7-45e4-83fb-7f7b491cd895))
+    (pin "2" (uuid ac79d2f1-55e8-48f2-beca-e39d88c8f0f9))
     (instances
       (project "rbc_circuits"
         (path "/1df96114-eb1a-4ddf-9ea3-acd2b4d12bf3/6683f276-27a3-494e-84c3-353277da8be6"

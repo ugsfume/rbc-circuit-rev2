@@ -77,4 +77,9 @@
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
+  (model "C:/Users/Kenneth/OneDrive/Documents/KiCad/Library Loader/SamacSys_Parts.3dshapes/BTN70301EPAXUMA1.stp"
+    (offset (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )

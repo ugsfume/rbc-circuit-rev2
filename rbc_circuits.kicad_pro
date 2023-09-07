@@ -34,9 +34,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.0,
-          "height": 0.95,
-          "width": 1.075
+          "drill": 1.0,
+          "height": 1.7,
+          "width": 1.7
         },
         "silk_line_width": 0.12,
         "silk_text_italic": false,
@@ -60,9 +60,7 @@
           "width": 0.147828
         }
       ],
-      "drc_exclusions": [
-        "connection_width|60713936|57735666|6c49feb4-1612-4b47-a90c-d070620f708e|89aa08fe-81e5-4165-ab10-984d5aa4b3ae"
-      ],
+      "drc_exclusions": [],
       "meta": {
         "version": 2
       },
@@ -607,7 +605,7 @@
       "step": "rbc_circuits.step",
       "vrml": ""
     },
-    "page_layout_descr_file": ""
+    "page_layout_descr_file": "with_ugs.kicad_wks"
   },
   "schematic": {
     "annotate_start_num": 0,
@@ -633,7 +631,7 @@
       "version": 1
     },
     "net_format_name": "",
-    "page_layout_descr_file": "${KICAD_USER_TEMPLATE_DIR}/with_ugs.kicad_wks",
+    "page_layout_descr_file": "with_ugs.kicad_wks",
     "plot_directory": "",
     "spice_current_sheet_as_root": false,
     "spice_external_command": "spice \"%I\"",

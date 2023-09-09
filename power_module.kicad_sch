@@ -3263,7 +3263,7 @@
     (property "Datasheet" "~" (at 39.37 49.53 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Part No." "CSA0402X7R103K500GT" (at 35.56 55.88 0)
+    (property "Part No." "HGC0402R7103K500NTEJ" (at 35.56 55.88 0)
       (effects (font (size 1.27 1.27)))
     )
     (pin "1" (uuid ed32f88a-6eed-4327-9114-7c1c17ffdf4c))
